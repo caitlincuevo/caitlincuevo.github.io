@@ -1,16 +1,5 @@
-body {
+h1{
+	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
-	background: url(http://www.pxleyes.com/images/contests/eyes/fullsize/wink-wink-----4e58a38c4413b_hires.jpg);
-	background-size: cover;
-	font-family: "Courier New", monospace;
-}
-#left {
-	background: #cccccc;
-
-}
-#center {
-	background: #ffffff;
-}
-#right {
-	background: #000000;
+	font-size: 32px;
 }
