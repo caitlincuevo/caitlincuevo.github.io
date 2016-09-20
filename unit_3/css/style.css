@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background: url(https://goo.gl/images/9Lvrfy);
+	background-size: cover;
+	font-family: "Courier New", monospace;
+}
+#left {
+	background: #cccccc;
+
+}
+#center {
+	background: #ffffff;
+}
+#right {
+	background: #000000;
+}
