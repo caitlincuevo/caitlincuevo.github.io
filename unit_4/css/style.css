@@ -19,7 +19,7 @@ ul {
 a {
 	color: black;
 	text-decoration: none;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Julius Sans One', sans-serif; 
 }
 li {
 	display: block;
@@ -27,11 +27,11 @@ li {
 	padding-right: 15px;
 }
 p {
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 14px;
 }
-#logo { font-family: Helvetica, sans-serif; 
+#logo { font-family: 'Julius Sans One', sans-serif; 
 		display: block;
 		float: left;
 		padding-left: } 
