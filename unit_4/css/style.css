@@ -2,24 +2,24 @@
 body {
 	text-align: center;
 }
-h1 {
+h1{
 	font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 32px;
 }
-h2 { font-family: 'Playfair Display SC', serif;
+h2{ font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 14px
 }
 ul {
-	display: block;
-	float: right;
-	padding-right: 15px;
+	list-style: none;
+	padding: 0;
+	margin: 0;
 }
 a {
 	color: black;
 	text-decoration: none;
-	{ font-family: 'Playfair Display SC', serif;
+	font-family: 'Julius Sans One', sans-serif;
 }
 li {
 	display: block;
@@ -27,11 +27,11 @@ li {
 	padding-right: 15px;
 }
 p {
-	{ font-family: 'Julius Sans One', sans-serif; 
+	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	font-size: 14px;
 }
-#logo { font-family: 'Julius Sans One', sans-serif; 
+#logo { font-family: 'Julius Sans One', sans-serif;
 		display: block;
 		float: left;
 		padding-left: } 
