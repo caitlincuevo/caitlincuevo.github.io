@@ -38,7 +38,9 @@ main {
 	padding: 10px;
 }
 
-
+#wrapper {
+	width: 960px
+	padding: 0 auto;}
 
 #logo { font-family: 'Julius Sans One', sans-serif;
 		display: block;
