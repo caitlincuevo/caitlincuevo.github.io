@@ -6,6 +6,7 @@ h1{
 	font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 32px;
+	border: 4px black solid;
 }
 h2{ font-family: 'Playfair Display SC', serif;
 	text-align: center;
@@ -27,9 +28,9 @@ li {
 	float: right;
 	padding-right: 15px;
 }
-p {
+main {
 	font-family: 'Julius Sans One', sans-serif;
-	text-align: center;
+	text-align: left;
 	font-size: 14px;
 }
 #logo { font-family: 'Julius Sans One', sans-serif;
