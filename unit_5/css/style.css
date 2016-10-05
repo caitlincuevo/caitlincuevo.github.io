@@ -31,7 +31,7 @@ li {
 	float: right;
 	padding-right: 15px;
 }
-main {
+section {
 	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	font-size: 14px;
@@ -39,6 +39,7 @@ main {
 }
 
 #wrapper {
+	background-color: #cccccc;
 	width: 960px
 	padding: 0 auto;}
 
