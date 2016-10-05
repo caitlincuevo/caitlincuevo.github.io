@@ -35,7 +35,6 @@ main {
 	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	font-size: 14px;
-	padding: 10px;
 }
 
 #wrapper {
@@ -52,7 +51,7 @@ div {
 	border: 2px solid black;
 	display: inline-block;
 	margin: 20px;}
-	
+
 #boxa {background: #d3d3c3;}
 #boxb {background: #d3d3c3;}
 #boxc {background: #d3d3c3;}
