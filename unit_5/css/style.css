@@ -6,8 +6,11 @@ h1{
 	font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 32px;
-	border: 4px black solid;
-}
+	border: 4px black solid;}
+
+img {text-align: center;}
+
+
 h2{ font-family: 'Playfair Display SC', serif;
 	text-align: center;
 	font-size: 14px
