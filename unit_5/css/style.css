@@ -46,7 +46,17 @@ main {
 		display: block;
 		float: left;
 		padding-left: } 
-#work {text-align: right;}
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;}
+	
+#boxa {background: #d3d3c3;}
+#boxb {background: #d3d3c3;}
+#boxc {background: #d3d3c3;}
+
 span { 
 font-weight: bold;
 letter-spacing: .5em; }
