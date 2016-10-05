@@ -5,8 +5,7 @@ body {
 h1{
 	font-family: 'Playfair Display SC', serif;
 	text-align: center;
-	font-size: 32px;
-	border: 4px black solid;}
+	font-size: 32px;}
 
 img {text-align: center;}
 
@@ -35,6 +34,7 @@ main {
 	font-family: 'Julius Sans One', sans-serif;
 	text-align: left;
 	font-size: 14px;
+	padding: 10px;
 }
 #logo { font-family: 'Julius Sans One', sans-serif;
 		display: block;
