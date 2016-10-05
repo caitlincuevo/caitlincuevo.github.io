@@ -1,6 +1,7 @@
 
 body {
 	text-align: center;
+
 }
 h1{
 	font-family: 'Playfair Display SC', serif;
@@ -32,14 +33,12 @@ li {
 }
 main {
 	font-family: 'Julius Sans One', sans-serif;
-	text-align: left;
+	text-align: center;
 	font-size: 14px;
 	padding: 10px;
 }
-aside {
-	background-color: white;
-	padding: 20px;
-}
+
+
 
 #logo { font-family: 'Julius Sans One', sans-serif;
 		display: block;
@@ -48,5 +47,5 @@ aside {
 #work {text-align: right;}
 span { 
 font-weight: bold;
-letter-spacing: .25em; }
-footer {text-align: left;}
+letter-spacing: .5em; }
+footer {text-align: center;}
