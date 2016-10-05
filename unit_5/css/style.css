@@ -25,7 +25,7 @@ a {
 	font-weight: bold;
 	font-family: 'Playfair Display SC', serif;
 }
-#nav li {
+li {
 	display: block;
 	float: right;
 	padding-right: 15px;
