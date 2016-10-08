@@ -39,6 +39,9 @@ main {
 	font-size: 14px;
 }
 
+#two_column {
+    padding: 20px;
+}
 
 #left {
     background-color: #d3d3c3;
