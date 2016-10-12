@@ -2,7 +2,14 @@ body {
 	text-align: center;}
 h1 {
 	font-family: 'Rufina', serif;
-	background-image: url('images/rocks.jpg');
+	background: url(images/rocks.jpg);
 	font-size: 48px
 	color: #ffffff;
+}
+p {
+	font-family: 'Open Sans', sans-serif;;
+}
+ul {
+	font-family: 'Open Sans', sans-serif;
+	float: right;
 }
