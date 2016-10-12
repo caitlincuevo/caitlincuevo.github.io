@@ -1,6 +1,7 @@
 body {
 	text-align: center;
-	background: url('images/rocks.jpg');
+	background: url("rocks.jpg");
+	background-repeat: no-repeat;
 }
 h1 {
 	font-family: 'Rufina', serif;
