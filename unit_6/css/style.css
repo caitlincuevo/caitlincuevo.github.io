@@ -2,9 +2,9 @@ body {
 	text-align: center;}
 h1 {
 	font-family: 'Rufina', serif;
-	background: url(images/rocks.jpg);
 	font-size: 48px
 	color: #ffffff;
+	background: url("../images/rocks.jpg");
 }
 p {
 	font-family: 'Open Sans', sans-serif;;
@@ -12,4 +12,5 @@ p {
 ul {
 	font-family: 'Open Sans', sans-serif;
 	float: right;
+	display: block;
 }
