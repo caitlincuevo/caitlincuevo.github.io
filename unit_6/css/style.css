@@ -8,6 +8,7 @@ body {
 	background: url("../images/rocks.jpg");
 	float: left;
 	height: 300px;
+	width
 	padding: 200px;
 }
 p {
@@ -16,37 +17,31 @@ p {
 a {
 	font-family: 'Open Sans', sans-serif;
 	float: right;
-	display: block;
+	list-style: none;
 	text-decoration: none;
 	color: black;
-}
 
+}
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
 li {
 	display: block;
 	float: right;
-	padding-right: 15px;}
+	padding-right: 15px;
+}
+#box {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+	background: #AEB19C;
+}
 
-#boxa {
-	width: 150px;
-	height: 150px;
-	border: 2px solid black;
-	display: inline-block;
-	margin: 20px;
-	background: #AEB19C;
 }
-#boxb {
-	width: 150px;
-	height: 150px;
-	border: 2px solid black;
-	display: inline-block;
-	margin: 20px;
-	background: #AEB19C;
-}
-#boxc {
-	width: 150px;
-	height: 150px;
-	border: 2px solid black;
-	display: inline-block;
-	margin: 20px;
-	background: #AEB19C;
+#work {
+	padding: 2em;
 }
