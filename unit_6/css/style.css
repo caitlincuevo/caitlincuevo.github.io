@@ -9,24 +9,35 @@ h1 {
 p {
 	font-family: 'Open Sans', sans-serif;;
 }
-ul {
+a {
 	font-family: 'Open Sans', sans-serif;
 	float: right;
 	display: block;
+	text-decoration: none;
 }
-div {
+
+
+#boxa {
 	width: 150px;
 	height: 150px;
 	border: 2px solid black;
 	display: inline-block;
 	margin: 20px;
-}
-#boxa {
 	background: #AEB19C;
 }
 #boxb {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
 	background: #AEB19C;
 }
 #boxc {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
 	background: #AEB19C;
 }
