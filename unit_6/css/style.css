@@ -20,8 +20,11 @@ a {
 	float: right;
 	list-style: none;
 	text-decoration: none;
-	color: black;
+	color: white;
 
+}
+a:hover {
+	text-decoration: bold;
 }
 ul {
 	list-style: none;
@@ -33,9 +36,24 @@ li {
 	float: right;
 	padding-right: 15px;
 }
-#About_Me
-{
-	
+#About_Me {
+	width: 100px;
+}
+#left h1 {
+	font-family: 'Rufina', serif;
+	font-size: 48px
+	color: #ffffff;
+}
+#left p{
+	font-family: 'Open Sans', sans-serif;
+}
+#right h1{
+	font-family: 'Rufina', serif;
+	font-size: 48px
+	color: #ffffff;
+}
+#right p{
+	font-family: 'Open Sans', sans-serif;
 }
 #box {
 	width: 150px;
