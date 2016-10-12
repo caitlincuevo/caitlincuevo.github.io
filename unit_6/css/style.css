@@ -14,3 +14,19 @@ ul {
 	float: right;
 	display: block;
 }
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
+#boxa {
+	background: #AEB19C;
+}
+#boxb {
+	background: #AEB19C;
+}
+#boxc {
+	background: #AEB19C;
+}
