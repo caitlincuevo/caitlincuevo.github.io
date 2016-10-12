@@ -1,13 +1,14 @@
 body {
 	text-align: center;
 }
-#intro h1 {
+#introduction h1 {
 	font-family: 'Rufina', serif;
 	font-size: 48px
 	color: #ffffff;
 	background: url("../images/rocks.jpg");
 	float: left;
 	height: 300px;
+	padding: 200px;
 }
 p {
 	font-family: 'Open Sans', sans-serif;;
