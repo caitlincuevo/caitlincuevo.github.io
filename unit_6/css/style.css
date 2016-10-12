@@ -1,15 +1,16 @@
 body {
 	text-align: center;
 }
-#introduction h1 {
-	font-family: 'Rufina', serif;
+#introduction {
+	margin: 0;
+	background: url("../images/rocks.jpg"); 
+	background-size: cover;
+	height: 300px;
+}
+#introduction h1
+{	font-family: 'Rufina', serif;
 	font-size: 48px
 	color: #ffffff;
-	background: url("../images/rocks.jpg");
-	float: left;
-	height: 300px;
-	width
-	padding: 200px;
 }
 p {
 	font-family: 'Open Sans', sans-serif;;
@@ -31,6 +32,10 @@ li {
 	display: block;
 	float: right;
 	padding-right: 15px;
+}
+#About_Me
+{
+	
 }
 #box {
 	width: 150px;
