@@ -1,76 +1,67 @@
+
 body {
 	text-align: center;
-}
-#introduction {
-	margin: 0;
-	background: url("../images/rocks.jpg"); 
-	background-size: cover;
-	height: 300px;
-}
-#introduction h1
-{	font-family: 'Rufina', serif;
-	font-size: 48px
-	color: #ffffff;
-}
-p {
-	font-family: 'Open Sans', sans-serif;;
-}
-a {
-	font-family: 'Open Sans', sans-serif;
-	float: right;
-	list-style: none;
-	text-decoration: none;
-	color: white;
 
 }
-a:hover {
-	text-decoration: bold;
+h1{
+	font-family: 'Playfair Display SC', serif;
+	text-align: center;
+	font-size: 32px;}
+
+img {text-align: center;}
+
+
+h2{ font-family: 'Playfair Display SC', serif;
+	text-align: center;
+	font-size: 14px
 }
 ul {
 	list-style: none;
 	padding: 0;
 	margin: 0;
 }
+a {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: 'Playfair Display SC', serif;
+}
 li {
 	display: block;
 	float: right;
 	padding-right: 15px;
 }
-#About_Me {
-	width: 100px;
+main {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	font-size: 14px;
 }
-#left h1 {
-	font-family: 'Rufina', serif;
-	font-size: 48px
-	color: #ffffff;
-}
-#left p{
-	font-family: 'Open Sans', sans-serif;
+#left{
+	display: block;
 	float: left;
-	padding: 2em 1em;
-	width: 52%;
+	padding: 3%;
+	text-align: left;
+	width: 24%;
 }
-#right h1{
-	font-family: 'Rufina', serif;
-	font-size: 48px
-	color: #ffffff;
-	float: left;
-	padding: 2em 1em;
-	width: 52%;
+#right{
+	display: block;
+	float: right;
+	padding: 3%;
+	width: 60%;
 }
-#right p{
-	font-family: 'Open Sans', sans-serif;
-}
-#box {
+
+div {
 	width: 150px;
 	height: 150px;
 	border: 2px solid black;
 	display: inline-block;
-	margin: 20px;
-	background: #AEB19C;
-}
+	margin: 20px;}
 
-}
-#work {
-	padding: 2em;
-}
+#boxa {background: #d3d3c3;}
+#boxb {background: #d3d3c3;}
+#boxc {background: #d3d3c3;}
+
+span { 
+font-weight: bold;
+letter-spacing: .5em; }
+footer {text-align: center;}
