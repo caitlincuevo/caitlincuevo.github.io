@@ -31,25 +31,18 @@ li {
 	float: right;
 	padding-right: 15px;
 }
-main {
+#left {
 	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	font-size: 14px;
 }
-#left{
-	display: block;
-	float: left;
-	padding: 3%;
-	text-align: left;
-	width: 24%;
-}
-#right{
-	display: block;
-	float: right;
-	padding: 3%;
-	width: 60%;
-}
 
+#right {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	font-size: 14px;
+
+}
 div {
 	width: 150px;
 	height: 150px;
@@ -65,3 +58,13 @@ span {
 font-weight: bold;
 letter-spacing: .5em; }
 footer {text-align: center;}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+
+}
