@@ -46,11 +46,17 @@ li {
 }
 #left p{
 	font-family: 'Open Sans', sans-serif;
+	float: left;
+	padding: 2em 1em;
+	width: 52%;
 }
 #right h1{
 	font-family: 'Rufina', serif;
 	font-size: 48px
 	color: #ffffff;
+	float: left;
+	padding: 2em 1em;
+	width: 52%;
 }
 #right p{
 	font-family: 'Open Sans', sans-serif;
