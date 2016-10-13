@@ -44,10 +44,12 @@ text-align: center;
 }
 
 h2 {
-  color: #000000;
+  color: #ffffff;
+  background-color: black;
   font-family: 'Montserrat', sans-serif;
   font-family: 14px;
   text-align: center;
+  margin: 5%;
 }
 
 h3 {
