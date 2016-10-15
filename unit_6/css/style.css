@@ -7,11 +7,13 @@ nav {
 	float: right;
 	padding-bottom: 0px;
 	display: block;
+	font-family: 'Montserrat', sans-serif;
 }
 
 a{
+	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
-	color: #000000
+	color: #000000;
 	text-transform: uppercase;	
 }
 a:hover {
@@ -31,9 +33,10 @@ li {
 }
 
 header {
-background-image: url(../images/pears.jpg)
+background-image: url('../images/pears.jpg');
 background-repeat: no-repeat;
-padding-bottom: 100px
+padding-bottom: 100px;
+background-position: center center;
 }
 
 h1 {
@@ -50,6 +53,7 @@ h2 {
   font-family: 14px;
   text-align: center;
   margin: 5%;
+  display: inline-block;
 }
 
 h3 {
@@ -58,9 +62,9 @@ font-family: 'Oswald', sans-serif;
 font-family: #24px;
 }
 
-P {
+p {
 color: #000000;
-font-family: Verdana;
+font-family: 'Montserrat', sans-serif;
 font-family: 14px;
 }
 
@@ -71,11 +75,12 @@ background:#ffffff;
 }
 
 #sidebar {
-float:right;
-width:250px;
-background:#c9c;
-margin: auto;
+	float:right;
+	width:250px;
+	background:#c9c;
+	margin: auto;
 }
+
 footer {
 	background-color: #ffffff;
 	clear: both;
@@ -88,5 +93,4 @@ footer {
 	content: " ";
 	clear: both;
 	height: 0;
-
 }
