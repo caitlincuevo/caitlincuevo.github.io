@@ -103,3 +103,57 @@ footer {
 	clear: both;
 	height: 0;
 }
+
+@media only screen and (min-width: 400px) {
+
+	body {
+		width: 80%;
+		margin: auto;
+	}
+}
+@media only screen and (max-width: 1130px) {
+
+	body {
+		font-size: 18px;
+		width: 100%;
+	}
+	h1 {
+		font-size: 3.5em;
+	}
+	h2 {
+		font-weight: normal;
+	}
+	nav {
+		display: inline-block;
+		float: none;
+	}
+	nav a {
+		font-size: 1em;
+		font-weight: normal;
+		padding: .5em;
+	}
+	li {
+		display: inline;
+		padding: 1.2em;
+	}
+	header {
+		padding: 1.2em;
+	}
+	footer a{
+		font-size: 1em;
+	}
+	main {
+		float: none;
+		margin: auto;
+	}
+	aside {
+		float: none;
+		width: 100%;
+		border-left: none;
+		margin: auto;
+	}
+	#wrapper {
+		width: 100%;
+	}
+}
+
