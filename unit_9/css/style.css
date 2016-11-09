@@ -1,9 +1,10 @@
 body {
 	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #wrapper {
-	width: 70%;
+	width: 95%;
 	text-align: center;
 	background-color: #cccccc
 	border: 1px solid black;
@@ -19,7 +20,7 @@ nav {
 a{
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
-	color: #000000;
+	color: #ffffff;
 	text-transform: uppercase;	
 }
 a:hover {
@@ -46,13 +47,21 @@ background-position: center center;
 }
 
 h1 {
-color: #F4F96B;
+color: #326334;
 font-family: 'Oswald', sans-serif;
-font-size: 3em;
+font-size: 2em;
 text-align: center;
 }
 
-h2 {
+header h1 {
+	color: #ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size: 5em;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+header h2 {
   color: #ffffff;
   background-color: black;
   font-family: 'Montserrat', sans-serif;
@@ -63,7 +72,7 @@ h2 {
 }
 
 h3 {
-color: #F4F96B;
+color: #326334;
 font-family: 'Oswald', sans-serif;
 font-family: 1.5em;
 }
@@ -76,7 +85,7 @@ font-family: 1em;
 
 main {
 float:left;
-width:500px;
+width:60%;
 background:#ffffff;
 font-family: 'Montserrat', sans-serif;
 font-family: 1em;
@@ -86,13 +95,17 @@ color: white;
 aside {
 	float:right;
 	width:250px;
-	background:#000;
+	background:#F6EEEB;
 	margin: auto;
 }
 
 footer {
-	background-color: #ffffff;
+	background-color: #000000;
 	clear: both;
+}
+
+footer a {
+	color: #cccccc;
 }
 
 .clearfix:after {
