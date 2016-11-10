@@ -104,10 +104,6 @@ footer {
 	clear: both;
 }
 
-footer a {
-	color: #cccccc;
-}
-
 .clearfix:after {
 	visibility: hidden;
 	display: block;
